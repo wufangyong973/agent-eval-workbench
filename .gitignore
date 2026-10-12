@@ -4,9 +4,12 @@ __pycache__/
 .eggs/
 dist/
 build/
+temp_auto_push.bat
 .pytest_cache/
 .ruff_cache/
 .venv/
 venv/
 .env
 .DS_Store
+.gitignore
+branch_structure.json
